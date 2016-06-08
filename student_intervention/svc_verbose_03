@@ -1,0 +1,576 @@
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.847682 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.833333 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=0, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=0, score=0.847682 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=0, score=0.833333 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.847682 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.833333 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=1, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=1, score=0.847682 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=1, score=0.833333 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.847682 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.833333 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=2, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=2, score=0.847682 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=2, score=0.833333 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=2, score=0.812500 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=2, score=0.814815 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=2, score=0.822086 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.847682 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.833333 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=3, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=3, score=0.847682 -   0.0s
+[CV]  kernel=linear, C=0.03125, gamma=0, degree=3, score=0.833333 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.03125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.03125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=3, score=0.802548 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=3, score=0.785714 -   0.0s
+[CV]  kernel=poly, C=0.03125, gamma=0, degree=3, score=0.797101 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.815287 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.805556 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.794326 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=0, score=0.815287 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=0, score=0.805556 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=0, score=0.794326 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.815287 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.805556 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.794326 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=1, score=0.815287 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=1, score=0.805556 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=1, score=0.794326 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.815287 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.805556 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.794326 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=2, score=0.815287 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=2, score=0.805556 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=2, score=0.794326 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=2, score=0.800000 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=2, score=0.847682 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=2, score=0.833333 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.815287 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.805556 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.794326 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=3, score=0.815287 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=3, score=0.805556 -   0.0s
+[CV]  kernel=linear, C=0.125, gamma=0, degree=3, score=0.794326 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] . kernel=rbf, C=0.125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.125, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=3, score=0.792208 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=3, score=0.704000 -   0.0s
+[CV]  kernel=poly, C=0.125, gamma=0, degree=3, score=0.717557 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.782609 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.748092 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=0, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=0, score=0.782609 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=0, score=0.748092 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=0, score=0.812121 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=0, score=0.795031 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.782609 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.748092 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=1, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=1, score=0.782609 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=1, score=0.748092 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=1, score=0.812121 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=1, score=0.795031 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=1, score=0.797546 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=1, score=0.830189 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=1, score=0.817073 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.782609 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.748092 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=2, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=2, score=0.782609 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=2, score=0.748092 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=2, score=0.812121 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=2, score=0.795031 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=2, score=0.802548 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=2, score=0.783217 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=2, score=0.770370 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.782609 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.748092 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=0.5, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=3, score=0.807692 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=3, score=0.782609 -   0.0s
+[CV]  kernel=linear, C=0.5, gamma=0, degree=3, score=0.748092 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=3, score=0.812121 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=3, score=0.795031 -   0.0s
+[CV] ... kernel=rbf, C=0.5, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=0.5, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=3, score=0.760000 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=3, score=0.672269 -   0.0s
+[CV] .. kernel=poly, C=0.5, gamma=0, degree=3, score=0.661017 -   0.0s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=0, score=0.800000 -   0.1s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=0, score=0.779412 -   0.1s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=0, score=0.730159 -   0.1s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV] .. kernel=linear, C=2, gamma=0, degree=0, score=0.800000 -   0.1s
+[CV] .. kernel=linear, C=2, gamma=0, degree=0, score=0.779412 -   0.1s
+[CV] .. kernel=linear, C=2, gamma=0, degree=0, score=0.730159 -   0.1s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=0, score=0.807453 -   0.0s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=0, score=0.830986 -   0.0s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=0, score=0.843537 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=1, score=0.800000 -   0.1s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=1, score=0.779412 -   0.1s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=1, score=0.730159 -   0.1s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV] .. kernel=linear, C=2, gamma=0, degree=1, score=0.800000 -   0.1s
+[CV] .. kernel=linear, C=2, gamma=0, degree=1, score=0.779412 -   0.1s
+[CV] .. kernel=linear, C=2, gamma=0, degree=1, score=0.730159 -   0.1s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=1, score=0.807453 -   0.0s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=1, score=0.830986 -   0.0s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=1, score=0.843537 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=1, score=0.807692 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=1, score=0.837838 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=1, score=0.838710 -   0.0s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=2, score=0.800000 -   0.1s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=2, score=0.779412 -   0.1s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=2, score=0.730159 -   0.1s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV] .. kernel=linear, C=2, gamma=0, degree=2, score=0.800000 -   0.1s
+[CV] .. kernel=linear, C=2, gamma=0, degree=2, score=0.779412 -   0.1s
+[CV] .. kernel=linear, C=2, gamma=0, degree=2, score=0.730159 -   0.1s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=2, score=0.807453 -   0.0s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=2, score=0.830986 -   0.0s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=2, score=0.843537 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=2, score=0.812903 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=2, score=0.748092 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=2, score=0.736000 -   0.0s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=3, score=0.800000 -   0.1s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=3, score=0.779412 -   0.1s
+[CV]  kernel=linear, C=2, gamma=2.08333333333e-05, degree=3, score=0.730159 -   0.1s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=2, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV] .. kernel=linear, C=2, gamma=0, degree=3, score=0.800000 -   0.1s
+[CV] .. kernel=linear, C=2, gamma=0, degree=3, score=0.779412 -   0.1s
+[CV] .. kernel=linear, C=2, gamma=0, degree=3, score=0.730159 -   0.1s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=3, score=0.807453 -   0.0s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=3, score=0.830986 -   0.0s
+[CV] ..... kernel=rbf, C=2, gamma=0, degree=3, score=0.843537 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=2, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=3, score=0.756757 -   0.0s
+[CV] .... kernel=poly, C=2, gamma=0, degree=3, score=0.755906 -   0.1s
+[CV] .... kernel=poly, C=2, gamma=0, degree=3, score=0.683761 -   0.0s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=0, score=0.800000 -   0.5s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=0, score=0.763359 -   0.5s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=0, score=0.736000 -   0.5s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV] .. kernel=linear, C=8, gamma=0, degree=0, score=0.800000 -   0.5s
+[CV] .. kernel=linear, C=8, gamma=0, degree=0, score=0.763359 -   0.5s
+[CV] .. kernel=linear, C=8, gamma=0, degree=0, score=0.736000 -   0.5s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=0, score=0.777070 -   0.0s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=0, score=0.734375 -   0.0s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=0, score=0.682171 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=1, score=0.800000 -   0.5s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=1, score=0.763359 -   0.5s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=1, score=0.736000 -   0.5s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV] .. kernel=linear, C=8, gamma=0, degree=1, score=0.800000 -   0.5s
+[CV] .. kernel=linear, C=8, gamma=0, degree=1, score=0.763359 -   0.5s
+[CV] .. kernel=linear, C=8, gamma=0, degree=1, score=0.736000 -   0.5s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=1, score=0.777070 -   0.0s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=1, score=0.734375 -   0.0s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=1, score=0.682171 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=1, score=0.815287 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=1, score=0.791367 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=1, score=0.776978 -   0.0s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=2, score=0.800000 -   0.5s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=2, score=0.763359 -   0.5s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=2, score=0.736000 -   0.5s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV] .. kernel=linear, C=8, gamma=0, degree=2, score=0.800000 -   0.5s
+[CV] .. kernel=linear, C=8, gamma=0, degree=2, score=0.763359 -   0.5s
+[CV] .. kernel=linear, C=8, gamma=0, degree=2, score=0.736000 -   0.5s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=2, score=0.777070 -   0.0s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=2, score=0.734375 -   0.0s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=2, score=0.682171 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=2, score=0.768212 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=2, score=0.655738 -   0.1s
+[CV] .... kernel=poly, C=8, gamma=0, degree=2, score=0.672131 -   0.1s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=3, score=0.800000 -   0.5s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=3, score=0.763359 -   0.5s
+[CV]  kernel=linear, C=8, gamma=2.08333333333e-05, degree=3, score=0.736000 -   0.5s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=8, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV] .. kernel=linear, C=8, gamma=0, degree=3, score=0.800000 -   0.5s
+[CV] .. kernel=linear, C=8, gamma=0, degree=3, score=0.763359 -   0.5s
+[CV] .. kernel=linear, C=8, gamma=0, degree=3, score=0.736000 -   0.5s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=3, score=0.777070 -   0.0s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=3, score=0.734375 -   0.0s
+[CV] ..... kernel=rbf, C=8, gamma=0, degree=3, score=0.682171 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] . kernel=sigmoid, C=8, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=3, score=0.756757 -   0.0s
+[CV] .... kernel=poly, C=8, gamma=0, degree=3, score=0.746032 -   0.1s
+[CV] .... kernel=poly, C=8, gamma=0, degree=3, score=0.655172 -   0.0s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=0, score=0.800000 -   2.1s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=0, score=0.751880 -   3.0s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=0, score=0.720000 -   1.3s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=0, score=0.802395 -   0.0s
+[CV] . kernel=linear, C=32, gamma=0, degree=0, score=0.800000 -   2.2s
+[CV] . kernel=linear, C=32, gamma=0, degree=0, score=0.751880 -   3.2s
+[CV] . kernel=linear, C=32, gamma=0, degree=0, score=0.720000 -   1.2s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=0, score=0.766234 -   0.0s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=0, score=0.688000 -   0.0s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=0, score=0.655738 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] ... kernel=poly, C=32, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] ... kernel=poly, C=32, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV] ... kernel=poly, C=32, gamma=0, degree=0, score=0.802395 -   0.0s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=1, score=0.800000 -   2.1s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=1, score=0.751880 -   3.0s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=1, score=0.720000 -   1.2s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=1, score=0.802395 -   0.0s
+[CV] . kernel=linear, C=32, gamma=0, degree=1, score=0.800000 -   2.1s
+[CV] . kernel=linear, C=32, gamma=0, degree=1, score=0.751880 -   3.0s
+[CV] . kernel=linear, C=32, gamma=0, degree=1, score=0.720000 -   1.2s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=1, score=0.766234 -   0.0s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=1, score=0.688000 -   0.0s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=1, score=0.655738 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=1, score=0.802395 -   0.0s
+[CV] ... kernel=poly, C=32, gamma=0, degree=1, score=0.807692 -   0.0s
+[CV] ... kernel=poly, C=32, gamma=0, degree=1, score=0.782609 -   0.1s
+[CV] ... kernel=poly, C=32, gamma=0, degree=1, score=0.734375 -   0.0s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=2, score=0.800000 -   2.2s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=2, score=0.751880 -   3.1s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=2, score=0.720000 -   1.3s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=2, score=0.802395 -   0.0s
+[CV] . kernel=linear, C=32, gamma=0, degree=2, score=0.800000 -   2.2s
+[CV] . kernel=linear, C=32, gamma=0, degree=2, score=0.751880 -   3.1s
+[CV] . kernel=linear, C=32, gamma=0, degree=2, score=0.720000 -   1.3s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=2, score=0.766234 -   0.0s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=2, score=0.688000 -   0.0s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=2, score=0.655738 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=2, score=0.802395 -   0.0s
+[CV] ... kernel=poly, C=32, gamma=0, degree=2, score=0.751678 -   0.1s
+[CV] ... kernel=poly, C=32, gamma=0, degree=2, score=0.723077 -   0.1s
+[CV] ... kernel=poly, C=32, gamma=0, degree=2, score=0.683333 -   0.1s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=3, score=0.800000 -   2.2s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=3, score=0.751880 -   3.1s
+[CV]  kernel=linear, C=32, gamma=2.08333333333e-05, degree=3, score=0.720000 -   1.2s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=rbf, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=poly, C=32, gamma=2.08333333333e-05, degree=3, score=0.802395 -   0.0s
+[CV] . kernel=linear, C=32, gamma=0, degree=3, score=0.800000 -   2.1s
+[CV] . kernel=linear, C=32, gamma=0, degree=3, score=0.751880 -   3.1s
+[CV] . kernel=linear, C=32, gamma=0, degree=3, score=0.720000 -   1.2s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=3, score=0.766234 -   0.0s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=3, score=0.688000 -   0.0s
+[CV] .... kernel=rbf, C=32, gamma=0, degree=3, score=0.655738 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV]  kernel=sigmoid, C=32, gamma=0, degree=3, score=0.802395 -   0.0s
+[CV] ... kernel=poly, C=32, gamma=0, degree=3, score=0.756757 -   0.0s
+[CV] ... kernel=poly, C=32, gamma=0, degree=3, score=0.746032 -   0.1s
+[CV] ... kernel=poly, C=32, gamma=0, degree=3, score=0.655172 -   0.0s
